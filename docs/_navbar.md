@@ -1,5 +1,3 @@
-# 犯二青年-wiki
-
-* 目录列表
+* 其他目录
     * [PHP](php/)
     * [Linux](linux/)
