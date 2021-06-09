@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-<code>faner-wiki</code> 
+<code>犯二青年-wiki</code> 
 </p>
 
 <p align="center">
