@@ -14,4 +14,4 @@
 
 License
 ------------
-`laravel-admin` is licensed under [The MIT License (MIT)](LICENSE).
+`犯二青年-wiki` is licensed under [The MIT License (MIT)](LICENSE).
